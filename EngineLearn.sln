@@ -1,6 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.12
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Engine001_newmap", "Engine001_newmap\Engine001_newmap.csproj", "{9246C545-4FE7-4AEF-98A1-6437012BCFCF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Engine002_eagleEyeMap", "Engine002_eagleEyeMap\Engine002_eagleEyeMap.csproj", "{93BB437F-2F28-4968-9A62-A273B322859F}"
@@ -8,6 +10,20 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Engine003_showTabelData", "Engine_003_showTabelData\Engine003_showTabelData.csproj", "{FE716649-EBB7-46BE-ACE0-850E740E8B66}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geodatabase", "Geodatabase\Geodatabase.csproj", "{4C3F0C57-954D-4DF8-A191-D2FEFC3AA581}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1地图基本操作", "1地图基本操作", "{20B7E758-F9D7-4812-AD89-2FF5751AB991}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2信息查询", "2信息查询", "{C1EB1CDF-844E-4997-8A3B-EB0FA1BC9C7C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3专题图制作", "3专题图制作", "{4010638D-E651-46E8-B0D5-96A11098AAF5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 数据编辑", "4 数据编辑", "{796C05C3-E46E-4F23-AD90-63609EEC5C97}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 网络分析", "5 网络分析", "{F8EC741A-1C40-422D-AEFA-5494D5CAC1E5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6 空间统计分析", "6 空间统计分析", "{2F8B80E8-4CB6-418F-A7B7-19F389EAD7F4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7三维分析", "7三维分析", "{FFFB6381-29D3-4FA6-B6A9-AAD52E483358}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
